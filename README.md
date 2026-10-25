@@ -1,2 +1,0 @@
-# Nanime
-Anime content 
