@@ -1,2 +1,2 @@
-# Animeverse
+# Nanime
 Anime content 
